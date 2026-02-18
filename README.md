@@ -2431,3 +2431,5 @@ To express your support, you can take the following actions:
    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=slavakurilyak/awesome-ai-agents&type=Date" />
  </picture>
 </a>
+
+- [Mysti](https://github.com/DeepMyst/Mysti) - Multi-agent AI coding assistant for VS Code with brainstorm mode. Agents debate, red-team, and collaborate via 5 strategies.
